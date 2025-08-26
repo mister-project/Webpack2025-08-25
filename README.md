@@ -1,10 +1,6 @@
 # WEBPACK
-Дальнейшая работа со сборкой приведена в уроке GloACADEMY
-Интенсив по фронтенду — магазин «Inspired»
-Урок 1. Начинаем проект
-https://glo-academy.org/pl/teach/control/lesson/view?id=344145897&editMode=0
-
-ссылка на youtube канал АФТАРА
+ЗАБИРАТЬ ФАЙЛЫ ДЛЯ ДАЛЬНЕЙШЕЙ РАБОТЫ СО СБОРКОЙ НАДО ИСКЛЮЧИТЕЛЬНО ИЗ ВЕТКИ MASTER!!!
+И ЧИТАЙ ТАМ README
 https://youtu.be/o8KMucDpSno
 
 Для установки пакетов используйте команду npm install
